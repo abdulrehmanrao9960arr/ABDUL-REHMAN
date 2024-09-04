@@ -1,0 +1,130 @@
+.nav-box {
+    border-top: 20px black;
+    border-bottom: 20px black;
+    width: 100%;
+    height: 100px;
+    /* border: 1px solid white; */
+    display: flex;
+    align-items: center;
+  }
+  .logo {
+    margin-left: 10rem;
+    margin-right: 30rem;
+    height: 8rem;
+    width: 29rem;
+  }
+  .nav-list {
+    display: flex;
+    font-size: 1.5rem;
+  }
+  .nav-list > li {
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+  .button-1 {
+    border: 1px solid black;
+    border-radius: 50px;
+    height: 5.5rem;
+    width: 15rem;
+    margin-left: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.7rem;
+  }
+  .heading-one{
+font-size: 60px;
+
+  }
+  .pg-1{
+    padding: 40px;
+    margin-top: 6px;
+  }
+  .para-1{
+font-size: large;
+  }
+  .h1but{
+    color: white;
+    background-color: black;
+  }
+.app{
+    width: Fixed (1,440px)px;
+   height: Hug (48px)px;
+ padding: 0px 100px 0px 100px;
+ gap: 0px;
+ justify: space-between;
+  opacity: 0px;
+
+    
+    align-items: center;
+}
+.small-pg{
+padding-top: 30px;
+padding-left: 60px;
+font-size: x-large;
+justify-content: space-between;
+align-items: center;
+}
+.sp{border: 1px solid black;
+    border-radius: 30px; 
+    size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.7rem;
+    background: #b9ff66;
+}
+.s-e{
+    padding: 30px;
+    border:2px solid black ;
+    border-radius: 30px;
+height: 310px;
+width: 700px;
+}
+.pp{
+    padding: 30px;
+    border:2px solid black ;
+    border-radius: 30px;
+height: 310px;
+width: 700px;
+}
+.pg-2{
+    padding: 20px;
+    padding-left: 30px;
+    font-size: medium;
+}
+
+.main-png{
+    align-items: end;
+}
+.con-1{
+    border: 4px;
+    border-radius: 40px;
+font-size: medium;
+padding: 40px;
+
+}
+.con-2{
+  border: 4px;
+  border-radius: 40px;
+font-size: medium;
+padding: 40px;
+
+}
+.con-3{
+  border: 4px;
+  border-radius: 40px;
+font-size: medium;
+padding: 40px;
+
+}
+.con-4{
+  border: 4px;
+  border-radius: 40px;
+font-size: medium;
+padding: 40px;
+
+}
+.con{
+  padding: 40px;
+}
